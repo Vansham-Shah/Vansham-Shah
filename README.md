@@ -9,20 +9,20 @@
 
 - 🔭 I’m currently working on [Quiz App](https://github.com/Vansham-Shah/Quiz-App)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter,Web Development**
 
-- 🤝 I’m looking for help with **Flutter**
+- 🤝 I’m looking for help with **Flutter Firebase**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vansham-Shah](https://github.com/Vansham-Shah)
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Flutter,WordPress,Python,Html,CSS**
 
 - 📫 How to reach me **vansham2608@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vansham_shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vansham_shah" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vansham-shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vansham shah" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vansham shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vansham shah" height="30" width="40" /></a>
 <a href="https://instagram.com/vansham._._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vansham._._" height="30" width="40" /></a>
 </p>
 
