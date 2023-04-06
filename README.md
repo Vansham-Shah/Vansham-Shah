@@ -1,12 +1,19 @@
 ### Hi there 👋
 
-
-**Vansham-Shah/Vansham-Shah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- Name-Vansham Shah
+- Name-```Vansham Shah```
 - Course-B.tech Computer Science Artificial Intelligence
-- 🌱 I’m currently learning Python
+- Had Learnt So Far-
+-  <ul>
+            <li>Python</li>
+            <li>Html</li>
+            <li>CSS</li>
+            <li>Javascript</li>
+            <li>WordPress</li>
+            <li>Flutter</li>
+        </ul>
+        
+ 
 
-
+<img 
+   src="https://github-readme-stats.vercel.app/api?username=Vansham-Shah&show_icons=true&theme=tokyonight" 
+/>
